@@ -1,0 +1,12 @@
+node_modules
+debug.log
+exceptions.log
+.project
+.classpath
+bower_components
+*.iml
+.DS_STORE
+.settings/
+target/
+.idea/
+logs/
